@@ -24,4 +24,5 @@ If she selects any specific text or object a the mini toolbar will appear, allow
 Karen will begin to enter a quick note making sure to type the **@** symbol which will trigger a drop down list that she can choose the person to @mention, in this case Julian **Isla**.
 
 ![Image of Comments menu with @ mention feature built in](images/4.png)
+
 For example: *Hey @Julian Isla - can you please review these changes and verify they are correct based upon your recent conversations with the Executive team?*  before **clicking Post**.
