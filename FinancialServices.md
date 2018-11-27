@@ -9,20 +9,36 @@ Karen Berg, the Director of Operations and Business Strategy for Contoso Financi
 
 Karen will start the process going into her OneDrive where she safely saves all of her files so that they follow her across all her devices.  She will **launch Edge** from her task bar and **click** the **Home button** to automatically connect and sign into her Office 365 account.
 
-![Image of the home icon in Microsoft Edge browser](images/1.png)
+![Image of the home icon in Microsoft Edge browser](images/image002.png)
 
 She will **select** the **waffle** icon in the upper left-hand corner and **click** the **OneDrive** tile.
 
-![Image of the Microsoft OneDrive icon](images/2.png)
+![Image of the Microsoft OneDrive icon](images/image003.png)
 
 She needs to collaborate on a document with Julian and Molly.  To do this, Karen will **select** the **Digital Banking Engagement at Contoso.docx** document from her OneDrive to open it in Word Online.  She can choose to direct each of her colleagues attention to any given location within the document by using the new @mentions in comments to tag someone for feedback.
 
 If she selects any specific text or object a the mini toolbar will appear, allowing her to choose various formatting options as well as the ability to select **New Comment** at the end of the mini-toolbar.
 
-![Image of toolbar within Microsoft Word](images/3.png)
+![Image of toolbar within Microsoft Word](images/image004.png)
 
 Karen will begin to enter a quick note making sure to type the **@** symbol which will trigger a drop down list that she can choose the person to @mention, in this case Julian **Isla**.
 
-![Image of Comments menu with @ mention feature built in](images/4.png)
+![Image of Comments menu with @ mention feature built in](images/image006.png)
 
 For example: *Hey @Julian Isla - can you please review these changes and verify they are correct based upon your recent conversations with the Executive team?*  before **clicking Post**.
+
+![Image of Comments with information](images/image009.png)
+
+Because she has posted her comments with an @mention to Julian, she will be prompted and will choose to **Share and notify**.
+
+![Image of Grant Access for Julian Isla](images/image011.png)
+
+> [!TIP]
+> Facilitators Note:  This is an opportunity to encourage group participation within your session, by using the  @mention feature to pull in as many participants as possible.  Repeat the comments for each of your session participants at various locations throughout the document.  Each recipient will receive an email similar to the screen below…
+
+![Image of OneDrive link to open shared document](images/image015.png)
+
+>[TIP]
+> …which allows them to join a co-authoring session within the document with the comments bar appearing on the right hand side.
+
+![Image of Word document](images/image017.png)
